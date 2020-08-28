@@ -24,3 +24,7 @@ To access this app, clone this repo into your local storage.  Once cloned, compl
 5) Open Chrome and type 'http://localhost:8080' in the search bar (Or, other port if changed.)
 
 6) You can now use the application.
+
+## GOOGLE DOC
+Link to Google Doc with File Explanations:
+https://docs.google.com/document/d/1-PkPReN0fkDpB_P66WVXvgOP0Ww4MEDlHG2v8sJECX8/edit?usp=sharing
